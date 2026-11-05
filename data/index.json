@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "baku",
+    "name": "Baku",
+    "country": "AZ",
+    "wikidata_id": "Q9248",
+    "queried_at": "2026-10-08",
+    "museum_count": 14
+  },
+  {
+    "slug": "istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "wikidata_id": "Q406",
+    "queried_at": "2026-10-01",
+    "museum_count": 15
+  },
+  {
+    "slug": "rome",
+    "name": "Rome",
+    "country": "IT",
+    "wikidata_id": "Q220",
+    "queried_at": "2026-10-01",
+    "museum_count": 12
+  }
+]

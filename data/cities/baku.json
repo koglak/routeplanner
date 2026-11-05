@@ -1,0 +1,854 @@
+{
+  "schema_version": 1,
+  "city": {
+    "slug": "baku",
+    "name": "Baku",
+    "country": "AZ",
+    "wikidata_id": "Q9248",
+    "queried_at": "2026-10-08"
+  },
+  "museums": [
+    {
+      "id": "Q842822",
+      "name": "Maiden Tower",
+      "name_local": "Qız qalası",
+      "category": [
+        "history",
+        "architecture"
+      ],
+      "popularity_rank": 1,
+      "address": null,
+      "coords": [
+        40.366166666,
+        49.83725
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "1-2 hours",
+            "checked": "2026-10-08",
+            "url": "https://www.holidify.com/places/baku/maiden-tower-sightseeing-1270457.html"
+          }
+        ],
+        "notes": [
+          "Tepeye dar sarmal merdivenle çıkılıyor; çatıdan İçerişehir ve Hazar manzarası",
+          "Büyük çanta ve yiyecek içeri alınmıyor"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q43928",
+      "name": "Heydar Aliyev Cultural Center",
+      "name_local": null,
+      "category": [
+        "art",
+        "history",
+        "architecture"
+      ],
+      "popularity_rank": 2,
+      "address": "1 Heydar Aliyev Ave, Baku 1033, Azerbaijan",
+      "coords": [
+        40.395277777,
+        49.866944444
+      ],
+      "website": "http://heydaraliyevcenter.az/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Time Required: 2-3 hours",
+            "checked": "2026-10-08",
+            "url": "https://backpackersunited.in/destinations/baku-azerbaijan/attraction/heydar-aliyev-baku"
+          }
+        ],
+        "notes": [
+          "Bina dışı ve bahçeler ücretsiz; sergiler biletli",
+          "Klasik araba sergisi ayrı ücretli",
+          "Erken sabah ve gün batımı fotoğraf için sakin"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu-Fr 11:00-19:00, Sa-Su 11:00-18:00",
+          "source": "osm",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q318181",
+      "name": "Gobustan State Historical and Cultural Reserve",
+      "name_local": "Qobustan Milli Tarix-Bədii Qoruğu",
+      "category": [
+        "archaeology",
+        "history"
+      ],
+      "popularity_rank": 3,
+      "address": null,
+      "coords": [
+        40.10555556,
+        49.38888889
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "We spent almost three hours there because we enjoy history, whereas many organised groups seemed to move on much more quickly.",
+            "checked": "2026-10-08",
+            "url": "https://eurasia.travel/forum/azerbaijan-attractions/is-gobustan-worth-visiting/"
+          },
+          {
+            "source": "blog",
+            "value": "Friends of ours spent less than two hours there because archaeology isn't really their thing.",
+            "checked": "2026-10-08",
+            "url": "https://eurasia.travel/forum/azerbaijan-attractions/is-gobustan-worth-visiting/"
+          }
+        ],
+        "notes": [
+          "Merkeze ~60 km güneybatıda; genelde çamur volkanlarıyla aynı turda gezilir",
+          "Önce müze, sonra açık hava petroglif yolları; rehberle gezmek öneriliyor"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 3.0,
+        "fast_h": 1.0,
+        "thorough_h": 3.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q338889",
+      "name": "Palace of the Shirvanshahs",
+      "name_local": "Şirvanşahlar sarayı",
+      "category": [
+        "history",
+        "architecture"
+      ],
+      "popularity_rank": 4,
+      "address": null,
+      "coords": [
+        40.366111111,
+        49.833333333
+      ],
+      "website": "http://shirvanshahs.az",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Plan on spending 1 hour 30 minutes to 2 hours to explore the entire complex",
+            "checked": "2026-10-08",
+            "url": "https://www.avygeo.com/en/activities/2131-palace-of-the-shirvanshahs"
+          }
+        ],
+        "notes": [
+          "Dik taş merdivenler ve dar kapılar var",
+          "Girişte ücretli sesli rehber ve rehber var",
+          "Öğleden sonra geç saatlerde avlu sakin"
+        ],
+        "typical_min_h": 1.5,
+        "typical_max_h": 2.0,
+        "fast_h": 1.5,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo-Su 10:00-18:00",
+          "source": "osm",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q1136822",
+      "name": "Azerbaijan Carpet Museum",
+      "name_local": "Azərbaycan xalça muzeyi",
+      "category": [
+        "art",
+        "ethnography"
+      ],
+      "popularity_rank": 5,
+      "address": null,
+      "coords": [
+        40.359839955,
+        49.835474746
+      ],
+      "website": "http://www.azcarpetmuseum.az/index_eng.htm",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Time Required: 2 hours",
+            "checked": "2026-10-08",
+            "url": "https://backpackersunited.in/destinations/baku-azerbaijan/attraction/azerbaijan-carpet-museum"
+          }
+        ],
+        "notes": [
+          "Haydar Aliyev Merkezi ile birlikte 3–4 saat ayırmak öneriliyor",
+          "3. kat yeniden yapım nedeniyle geçici olarak kapalı",
+          "Rehberli tur 12 AZN"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 2.0,
+        "fast_h": 2.0,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu–Fr 10:00–19:00; Sa–Su 11:00–20:00",
+          "source": "official",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": "10 AZN adult (foreign visitors)",
+          "source": "official",
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q754560",
+      "name": "Ateshgah of Baku",
+      "name_local": null,
+      "category": [
+        "religious",
+        "history"
+      ],
+      "popularity_rank": 6,
+      "address": null,
+      "coords": [
+        40.415555555,
+        50.008611111
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Plan for 1 to 2 hours to explore the complex and its museum.",
+            "checked": "2026-10-08",
+            "url": "https://www.avygeo.com/en/activities/2133-ateshgah-fire-temple"
+          },
+          {
+            "source": "blog",
+            "value": "Time Required: 2 hours",
+            "checked": "2026-10-08",
+            "url": "https://backpackersunited.in/destinations/baku-azerbaijan/attraction/ateshgah-baku"
+          }
+        ],
+        "notes": [
+          "Merkeze ~30 km, Suraxanı'da; genelde Yanardağ ile aynı turda gezilir",
+          "Ateşgah + Yanardağ birleşik bileti var",
+          "Yabancılar için giriş 1 Ocak 2026'dan beri 15 AZN (report.az)"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q2664428",
+      "name": "National Museum of History of Azerbaijan",
+      "name_local": "Milli Azərbaycan tarixi muzeyi",
+      "category": [
+        "history"
+      ],
+      "popularity_rank": 7,
+      "address": "Х. З. Тагијева улица 4",
+      "coords": [
+        40.369477777,
+        49.840122222
+      ],
+      "website": "http://azhistorymuseum.gov.az/",
+      "user_notes": [
+        "Süre: yaklaşık 1–2 saat",
+        "Giriş: 10 manat"
+      ],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "could easily spend the entire afternoon wandering around",
+            "checked": "2026-10-08",
+            "url": "https://wanderlog.com/place/details/4590"
+          }
+        ],
+        "notes": [
+          "Rehberli tur önerilir, rehber ücreti ayrı: 10 AZN",
+          "Her ayın son salı günü temizlik nedeniyle kapalı"
+        ],
+        "typical_min_h": null,
+        "typical_max_h": null,
+        "fast_h": null,
+        "thorough_h": null,
+        "confidence": null
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu–Su 10:00–17:00",
+          "source": "official",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": "15 AZN adult (foreign citizens)",
+          "source": "official",
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q2559128",
+      "name": "National Art Museum of Azerbaijan",
+      "name_local": "Azərbaycan Milli İncəsənət Muzeyi",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 8,
+      "address": "9-11",
+      "coords": [
+        40.363056,
+        49.831667
+      ],
+      "website": "http://nationalartmuseum.az/?lang=az",
+      "user_notes": [
+        "Süre: 1–2 saat",
+        "Giriş: 10 manat"
+      ],
+      "duration": null,
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "10 AZN adult (foreign citizens)",
+          "source": "official",
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": "Tu,Th,Fr 10:00–18:00; We 12:00–21:00; Sa,Su 11:00–19:00",
+          "source": "official",
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q2559058",
+      "name": "Baku Museum of Miniature Books",
+      "name_local": "Miniatür Kitab Muzeyi",
+      "category": [
+        "books"
+      ],
+      "popularity_rank": 9,
+      "address": null,
+      "coords": [
+        40.366388888,
+        49.8325
+      ],
+      "website": "https://minibooks.az",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "well worth five minutes if you're passing",
+            "checked": "2026-10-08",
+            "url": "https://www.lonelyplanet.com/azerbaijan/baku/attractions/museum-of-miniature-books/a/poi-sig/1467080/358673"
+          }
+        ],
+        "notes": [
+          "Küçük, tek salonlu müze; İçerişehir'de Şirvanşahlar Sarayı'na 2 dk yürüme mesafesinde"
+        ],
+        "typical_min_h": 0.08,
+        "typical_max_h": 0.08,
+        "fast_h": 0.08,
+        "thorough_h": 0.08,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu-We, Fr-Su 11:00-17:00",
+          "source": "osm",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q1678321",
+      "name": "Baku Museum of Modern Art",
+      "name_local": "Müasir İncəsənət muzeyi",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 10,
+      "address": null,
+      "coords": [
+        40.378018,
+        49.86469
+      ],
+      "website": "http://mim.az",
+      "user_notes": [],
+      "duration": null,
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q3701423",
+      "name": "Villa Petrolea",
+      "name_local": null,
+      "category": [
+        "history",
+        "industry",
+        "house-museum"
+      ],
+      "popularity_rank": 11,
+      "address": null,
+      "coords": [
+        40.37972,
+        49.89361
+      ],
+      "website": "http://www.bakunobel.org",
+      "user_notes": [],
+      "duration": null,
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q2500152",
+      "name": "Nizami Museum of Azerbaijani Literature",
+      "name_local": "Nizami Gəncəvi adına Azərbaycan Ədəbiyyatı muzeyi",
+      "category": [
+        "literature",
+        "history"
+      ],
+      "popularity_rank": 12,
+      "address": "Via Istiglaliyyat 53",
+      "coords": [
+        40.3699226,
+        49.8363876
+      ],
+      "website": "http://nizamimuseum.az/museum/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "one hour it's not enough at all",
+            "checked": "2026-10-08",
+            "url": "https://wanderlog.com/place/details/144471/nizami-museum-of-azerbaijani-literature"
+          }
+        ],
+        "notes": [
+          "Giriş rehberli turla; yorum özetlerine göre turun katı 1 saat sınırı var",
+          "İçeride fotoğraf yasak; yalnızca turdan sonra giriş kapısında çekilebilir"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": null,
+        "fast_h": 1.0,
+        "thorough_h": 1.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q14942756",
+      "name": "The Museum Centre",
+      "name_local": "Muzey Mərkəzi",
+      "category": [
+        "art",
+        "music",
+        "theatre",
+        "history",
+        "religious"
+      ],
+      "popularity_rank": 13,
+      "address": "Neftçilər prospekti, 123",
+      "coords": [
+        40.36974,
+        49.84259
+      ],
+      "website": "http://www.museumcenter.az/",
+      "user_notes": [],
+      "duration": null,
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "hours": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      }
+    },
+    {
+      "id": "Q123753947",
+      "name": "Azerbaijan Railway Museum",
+      "name_local": "Azərbaycan Dəmiryol Muzeyi",
+      "category": [
+        "transport",
+        "history"
+      ],
+      "popularity_rank": 14,
+      "address": null,
+      "coords": [
+        40.379692231,
+        49.847986908
+      ],
+      "website": "https://muzey.ady.az/",
+      "user_notes": [],
+      "duration": null,
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-08"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo-Sa 10:00-18:00",
+          "source": "osm",
+          "checked": "2026-10-08"
+        },
+        "price": {
+          "value": "10 AZN adult",
+          "source": "official",
+          "checked": "2026-10-08"
+        }
+      }
+    }
+  ]
+}

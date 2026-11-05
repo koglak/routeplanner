@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: museumdb
+Version: 0.1.0
+Summary: Museum visit-duration database for travelkardi
+Requires-Python: >=3.11
+Requires-Dist: jsonschema>=4.18
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"

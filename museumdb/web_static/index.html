@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Müze Süreleri</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..600&family=Roboto+Flex:opsz,wght@8..144,400..700&display=swap">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-search" viewBox="0 -960 960 960"><path d="M784-120 532-372q-30 24-69 38t-83 14q-109 0-184.5-75.5T120-580q0-109 75.5-184.5T380-840q109 0 184.5 75.5T640-580q0 44-14 83t-38 69l252 252-56 56ZM380-400q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z"/></symbol>
+    <symbol id="i-menu" viewBox="0 -960 960 960"><path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z"/></symbol>
+    <symbol id="i-close" viewBox="0 -960 960 960"><path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/></symbol>
+    <symbol id="i-check" viewBox="0 -960 960 960"><path d="M382-240 154-468l57-57 171 171 367-367 57 57-424 424Z"/></symbol>
+    <symbol id="i-ext" viewBox="0 -960 960 960"><path d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z"/></symbol>
+    <symbol id="i-place" viewBox="0 -960 960 960"><path d="M480-480q33 0 56.5-23.5T560-560q0-33-23.5-56.5T480-640q-33 0-56.5 23.5T400-560q0 33 23.5 56.5T480-480Zm0 294q122-112 181-203.5T720-552q0-109-69.5-178.5T480-800q-101 0-170.5 69.5T240-552q0 71 59 162.5T480-186Zm0 106Q319-217 239.5-334.5T160-552q0-150 96.5-239T480-880q127 0 223.5 89T800-552q0 100-79.5 217.5T480-80Z"/></symbol>
+    <symbol id="i-ticket" viewBox="0 -960 960 960"><path d="M480-280q17 0 28.5-11.5T520-320q0-17-11.5-28.5T480-360q-17 0-28.5 11.5T440-320q0 17 11.5 28.5T480-280Zm0-160q17 0 28.5-11.5T520-480q0-17-11.5-28.5T480-520q-17 0-28.5 11.5T440-480q0 17 11.5 28.5T480-440Zm0-160q17 0 28.5-11.5T520-640q0-17-11.5-28.5T480-680q-17 0-28.5 11.5T440-640q0 17 11.5 28.5T480-600Zm320 440H160q-33 0-56.5-23.5T80-240v-160q33 0 56.5-23.5T160-480q0-33-23.5-56.5T80-560v-160q0-33 23.5-56.5T160-800h640q33 0 56.5 23.5T880-720v160q-33 0-56.5 23.5T800-480q0 33 23.5 56.5T880-400v160q0 33-23.5 56.5T800-160Zm0-80v-102q-37-22-58.5-58.5T720-480q0-43 21.5-79.5T800-618v-102H160v102q37 22 58.5 58.5T240-480q0 43-21.5 79.5T160-342v102h640ZM480-480Z"/></symbol>
+  </svg>
+
+  <div class="app">
+    <div class="scrim" data-close-drawer hidden></div>
+    <nav class="drawer" id="drawer" aria-label="Şehirler">
+      <div class="brand">
+        <span class="brand-mark">travelkardi</span>
+        <span class="brand-sub">Müze süreleri</span>
+      </div>
+      <label class="search">
+        <svg class="icon"><use href="#i-search"/></svg>
+        <input id="city-search" type="search" placeholder="Şehir ya da ülke ara" autocomplete="off">
+      </label>
+      <div id="city-nav" class="city-nav"></div>
+      <p class="drawer-foot" id="drawer-foot"></p>
+    </nav>
+
+    <main class="main" id="main">
+      <div class="topbar">
+        <button class="icon-btn" data-open-drawer aria-label="Şehir listesini aç" aria-controls="drawer">
+          <svg class="icon"><use href="#i-menu"/></svg>
+        </button>
+        <span class="topbar-title" id="topbar-title"></span>
+      </div>
+      <div id="view"></div>
+    </main>
+
+    <div class="sheet-scrim" data-close-sheet hidden></div>
+    <aside class="sheet" id="sheet" aria-label="Müze ayrıntıları" hidden>
+      <div class="sheet-head">
+        <button class="icon-btn" data-close-sheet aria-label="Ayrıntıları kapat">
+          <svg class="icon"><use href="#i-close"/></svg>
+        </button>
+      </div>
+      <div class="sheet-body" id="sheet-body"></div>
+    </aside>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

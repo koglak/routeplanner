@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "museumdb"
+version = "0.1.0"
+description = "Museum visit-duration database for travelkardi"
+requires-python = ">=3.11"
+dependencies = ["jsonschema>=4.18"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["museumdb"]
+
+[tool.setuptools.package-data]
+museumdb = ["schema.json", "web_static/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

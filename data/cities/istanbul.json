@@ -1,0 +1,1124 @@
+{
+  "schema_version": 1,
+  "city": {
+    "slug": "istanbul",
+    "name": "Istanbul",
+    "country": "TR",
+    "wikidata_id": "Q406",
+    "queried_at": "2026-10-01"
+  },
+  "museums": [
+    {
+      "id": "Q170495",
+      "name": "Topkapı Palace",
+      "name_local": "Topkapı",
+      "category": [
+        "palace",
+        "history"
+      ],
+      "popularity_rank": 1,
+      "address": null,
+      "coords": [
+        41.013,
+        28.984
+      ],
+      "website": "https://www.millisaraylar.gov.tr/en/palaces/topkapi-palace",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d294547-Reviews-TopkapI_Palace-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "at least 2 to 3 hours",
+            "checked": "2026-10-01",
+            "url": "https://letstraveltoturkiye.com/topkapi-palace-travel-guide/"
+          },
+          {
+            "source": "blog",
+            "value": "around 2-4 hours",
+            "checked": "2026-10-01",
+            "url": "https://whatsdownthatstreet.com/2024/09/09/topkapi-palace-top-things-to-see/"
+          }
+        ],
+        "notes": [
+          "Harem ayrı bölüm (kombine bilette dahil); +1 saat",
+          "Yaz sezonunda kalabalık; +1 saat ekle",
+          "Gişe 17:00'de kapanır, müze 18:00",
+          "Salı kapalı"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 4.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Summer (June–August); 10am–2pm",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "45–60",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo, We-Su 09:00-18:00",
+          "source": "osm",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "2,750 TL foreign adult (Palace + Hagia Irene + Harem)",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q12506",
+      "name": "Hagia Sophia",
+      "name_local": "Ayasofya",
+      "category": [
+        "religious",
+        "architecture",
+        "history"
+      ],
+      "popularity_rank": 2,
+      "address": null,
+      "coords": [
+        41.008333333,
+        28.98
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d294497-Reviews-Hagia_Sophia_Grand_Mosque-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "Most people spend 30 to 60 minutes. History lovers often stay 90 minutes.",
+            "checked": "2026-10-01",
+            "url": "https://istanbeautiful.com/hagia-sophia-istanbul/"
+          },
+          {
+            "source": "blog",
+            "value": "Around 1 hour",
+            "checked": "2026-10-01",
+            "url": "https://istanbultravelblog.com/hagia-sophia-istanbul/"
+          }
+        ],
+        "notes": [
+          "Yabancılar yalnızca üst galeriyi geziyor (ücretli)",
+          "Cuma 12:30–14:30 namaz nedeniyle turist girişi kapalı",
+          "Güvenlik kuyruğu zorunlu"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 0.5,
+        "thorough_h": 2.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "10:30 and 13:00",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "15–45",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo-Su 09:00-19:30",
+          "source": "osm",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "25 euro foreign visitor",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q216511",
+      "name": "Basilica Cistern",
+      "name_local": "Yerebatan Sarnıcı",
+      "category": [
+        "history",
+        "architecture",
+        "archaeology"
+      ],
+      "popularity_rank": 3,
+      "address": null,
+      "coords": [
+        41.0084038,
+        28.9779209
+      ],
+      "website": "https://yerebatansarnici.gov.tr/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "You can have a very good look in under an hour.",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/FAQ_Answers-g293974-d294555-t746296-How_much_time_do_you_need_to_do_this_can_you.html"
+          },
+          {
+            "source": "blog",
+            "value": "45 to 90 minutes inside, depending on crowd levels and interest. Add 15–60 minutes for queueing.",
+            "checked": "2026-10-01",
+            "url": "https://basilicacistern-guide.com/plan-your-visit/is-it-worth-it/"
+          }
+        ],
+        "notes": [
+          "Gece seansı 19:30–22:00, ayrı ve daha pahalı bilet (3.000 TL)",
+          "Sabah 09:00–10:30 en sakin"
+        ],
+        "typical_min_h": 0.75,
+        "typical_max_h": 1.5,
+        "fast_h": 0.75,
+        "thorough_h": 1.5,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": "weekends",
+          "source": "tripadvisor",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "15–60",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo–Su 09:00–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "1,950 TL for a daytime ticket",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q274141",
+      "name": "Dolmabahçe Palace",
+      "name_local": "Dolmabahçe Sarayı",
+      "category": [
+        "palace",
+        "history",
+        "art"
+      ],
+      "popularity_rank": 4,
+      "address": null,
+      "coords": [
+        41.039444444,
+        29.001666666
+      ],
+      "website": "https://www.millisaraylar.gov.tr/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d294667-Reviews-Dolmabahce_Palace-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "Around 1.5–2 hours",
+            "checked": "2026-10-01",
+            "url": "https://istanbultravelblog.com/dolmabahce-palace-istanbul/"
+          },
+          {
+            "source": "blog",
+            "value": "at least two hours",
+            "checked": "2026-10-01",
+            "url": "https://www.dolmabahce-palace.com/insider-tips"
+          }
+        ],
+        "notes": [
+          "Bilet Selamlık + Harem + Resim Müzesi'ni kapsar",
+          "İçeride fotoğraf yasak",
+          "Pazartesi kapalı"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 1.5,
+        "thorough_h": 3.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "2000 TL foreign adult (Selamlık + Harem + Painting Museum)",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:00–17:00 (ticket office)",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q636978",
+      "name": "Istanbul Archaeology Museums",
+      "name_local": "İstanbul Arkeoloji Müzeleri",
+      "category": [
+        "archaeology",
+        "history",
+        "art"
+      ],
+      "popularity_rank": 5,
+      "address": "Osman Hamdi Bey Yokuşu Sokak, Gülhane",
+      "coords": [
+        41.011669444,
+        28.981388888
+      ],
+      "website": "https://muze.gov.tr/muze-detay?SectionId=IAR01&DistId=IAR",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d294552-Reviews-Istanbul_Archaeological_Museum-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "One hour works if you want highlights only. Two hours is the sweet spot for first-time visitors.",
+            "checked": "2026-10-01",
+            "url": "https://istanbeautiful.com/istanbul-archaeology-museums/"
+          },
+          {
+            "source": "blog",
+            "value": "you could spend between one and four hours in the museum complex",
+            "checked": "2026-10-01",
+            "url": "https://turkeytravelplanner.com/go/istanbul/sights/sultanahmet/archeologicalmuseums.html"
+          }
+        ],
+        "notes": [
+          "3 bina tek bilet: Arkeoloji, Eski Şark, Çinili Köşk",
+          "Sabah ilk saat en sakin"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo–Su 09:00–18:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "15€",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q91274",
+      "name": "Galata Tower",
+      "name_local": "Galata Kulesi",
+      "category": [
+        "history",
+        "architecture",
+        "viewpoint"
+      ],
+      "popularity_rank": 6,
+      "address": null,
+      "coords": [
+        41.025632324,
+        28.97415319
+      ],
+      "website": "https://muze.gov.tr/muze-detay?SectionId=GLT04&DistId=MRK",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "< 1 hour",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d295194-Reviews-Galata_Tower-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "about 45–60 minutes on average",
+            "checked": "2026-10-01",
+            "url": "https://istanbulclues.com/galata-tower-entrance-fee/"
+          },
+          {
+            "source": "blog",
+            "value": "at least 45-60 minutes",
+            "checked": "2026-10-01",
+            "url": "https://wander-lush.org/visit-galata-tower-istanbul-tips/"
+          },
+          {
+            "source": "blog",
+            "value": "Most visitors spend 30-60 minutes inside, including the museum floors and observation balcony.",
+            "checked": "2026-10-01",
+            "url": "https://galatatower.com/en/faq"
+          }
+        ],
+        "notes": [
+          "Gün batımında çok kalabalık",
+          "Sabah 08:30–10:00 en sakin",
+          "Yazın 10:00'da uzun kuyruk oluşuyor",
+          "Teras küçük, yoğunlukta sıkışık"
+        ],
+        "typical_min_h": 0.5,
+        "typical_max_h": 1.0,
+        "fast_h": 0.5,
+        "thorough_h": 1.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Gün batımı ve öğle saatleri; yaz ve tatil dönemleri",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "15–45",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "recommended",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo–Su 08:30–22:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "€30 adult",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1463961",
+      "name": "İstanbul Modern",
+      "name_local": null,
+      "category": [
+        "art",
+        "modern art",
+        "architecture"
+      ],
+      "popularity_rank": 7,
+      "address": null,
+      "coords": [
+        41.026,
+        28.982944
+      ],
+      "website": "http://www.istanbulmodern.org/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d555738-Reviews-Istanbul_Museum_of_Modern_Art-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "about an hour and a half",
+            "checked": "2026-10-01",
+            "url": "https://fearlessfemaletravels.com/istanbul-museum-of-modern-art/"
+          }
+        ],
+        "notes": [
+          "Türkiye'de yaşayanlara Perşembe 10:00–14:00 ücretsiz",
+          "Cuma 20:00'ye kadar açık",
+          "Yabancıya fiyat daha yüksek"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu-Th, Sa-Su 10:00-18:00; Fr 10:00-20:00",
+          "source": "osm",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "1,000 TL adult (foreign visitors)",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1662392",
+      "name": "Pera Museum",
+      "name_local": "Pera Müzesi",
+      "category": [
+        "art",
+        "history"
+      ],
+      "popularity_rank": 8,
+      "address": null,
+      "coords": [
+        41.031805555,
+        28.975194444
+      ],
+      "website": "http://en.peramuzesi.org.tr/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "The average visitor spends about 2 to 3 hours exploring the exhibits.",
+            "checked": "2026-10-01",
+            "url": "https://museumpass.istanbul/pera-museum/"
+          }
+        ],
+        "notes": [
+          "Hafta sonu öğleden sonra kalabalık",
+          "Salı/Çarşamba sabahı sakin",
+          "Cuma 18:00–22:00 ücretsiz"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Hafta sonu, özellikle öğleden sonra; özel sergilerde",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu–Th,Sa 10:00–19:00; Fr 10:00–22:00; Su 12:00–18:00; Mo closed",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "450 TL adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q525939",
+      "name": "Turkish and Islamic Arts Museum",
+      "name_local": "Türk ve İslâm Eserleri Müzesi",
+      "category": [
+        "art",
+        "history",
+        "religious"
+      ],
+      "popularity_rank": 9,
+      "address": null,
+      "coords": [
+        41.006278,
+        28.974556
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d1973814-Reviews-Turkish_and_Islamic_Arts_Museum_Turk_ve_Islam_Eserleri_Muzesi-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "Allow somewhere between 1.5 and 2 hours to do the galleries justice.",
+            "checked": "2026-10-01",
+            "url": "https://istanbulsightseeing.com/istanbul-guides/islamic-museum-istanbul-turkey/"
+          }
+        ],
+        "notes": [
+          "Halı, hat ve İznik çinileri öne çıkıyor",
+          "Gişe 17:30'da kapanıyor"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo–Su 09:00–18:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "€17 adult",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q3404565",
+      "name": "Rahmi M. Koç Museum",
+      "name_local": "Rahmi M. Koç Müzesi",
+      "category": [
+        "transport",
+        "science",
+        "industry",
+        "history"
+      ],
+      "popularity_rank": 10,
+      "address": null,
+      "coords": [
+        41.04227,
+        28.94926
+      ],
+      "website": "http://www.rmk-museum.org.tr/english/index.html",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d549828-Reviews-Rahmi_M_Koc_Museum-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "Plan for at least two to three hours. Less feels rushed.",
+            "checked": "2026-10-01",
+            "url": "https://istanbeautiful.com/rahmi-koc-transport-museum-istanbul/"
+          }
+        ],
+        "notes": [
+          "Denizaltı turu önce tükeniyor",
+          "Hafta sonu otopark çabuk doluyor",
+          "Çocuklu ailelerle tam gün sürebilir",
+          "Son bilet kapanıştan 30 dk önce"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Hafta sonları",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "1000 TL adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Fr 09:30–17:30; Sa–Su 09:30–18:00; Mo closed",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q15961492",
+      "name": "The Museum of Innocence",
+      "name_local": "Masumiyet Müzesi",
+      "category": [
+        "literature",
+        "art"
+      ],
+      "popularity_rank": 11,
+      "address": "Çukurcuma Caddesi - Dalgıç Çıkmaz",
+      "coords": [
+        41.03093056,
+        28.97982222
+      ],
+      "website": "https://www.masumiyetmuzesi.org/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Allow 1.5 to 2 hours",
+            "checked": "2026-10-01",
+            "url": "https://letterstobarbara.com/museum-of-innocence-in-istanbul/"
+          },
+          {
+            "source": "blog",
+            "value": "I didn't spend more than 2 hours checking out all the mementos displayed on each floor.",
+            "checked": "2026-10-01",
+            "url": "https://thebeautraveler.com/the-museum-of-innocence/"
+          }
+        ],
+        "notes": [
+          "Romanı okuyanlar ve sesli rehber alanlar için daha uzun",
+          "Netflix dizisi (Şubat 2026) sonrası kapıda uzun kuyruklar oluştu",
+          "Romanın kopyasıyla gelenlere ücretsiz giriş"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.5,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": "hafta sonları (Netflix dizisi sonrası yoğunluk)",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu–Su 10:00–18:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "800 TL adult (foreign visitors)",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q3395851",
+      "name": "Sakıp Sabancı Museum",
+      "name_local": "Sakıp Sabancı Müzesi",
+      "category": [
+        "art",
+        "history"
+      ],
+      "popularity_rank": 12,
+      "address": null,
+      "coords": [
+        41.099116,
+        29.053704
+      ],
+      "website": "https://www.sakipsabancimuzesi.org/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Recommended Visit Duration: 2 - 4 hours",
+            "checked": "2026-10-01",
+            "url": "https://traveltourshop.com/blog/sakip-sabanci-museum"
+          }
+        ],
+        "notes": [
+          "Bahçe, Boğaz manzarası ve kafe ile süre uzayabilir",
+          "Salı ücretsiz giriş günü, daha kalabalık",
+          "Büyük sergiler döneminde hafta sonu yoğun"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 4.0,
+        "fast_h": 2.0,
+        "thorough_h": 4.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Tuesday tends to be busier than other days (free admission); weekends during major exhibitions",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "450 ₺ adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 10:00–18:00",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q2719230",
+      "name": "Great Palace Mosaic Museum",
+      "name_local": "Büyük Saray Mozaikleri Müzesi",
+      "category": [
+        "archaeology",
+        "art",
+        "history"
+      ],
+      "popularity_rank": 13,
+      "address": null,
+      "coords": [
+        41.00444444,
+        28.97666667
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "TOPS one hour",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/FAQ_Answers-g293974-d307885-t548481-Hi_guys_please_answer_my_questions_is_the_mosaic.html"
+          },
+          {
+            "source": "tripadvisor",
+            "value": "Allow 1 to 2 hours when you visit",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/FAQ_Answers-g293974-d307885-t548481-Hi_guys_please_answer_my_questions_is_the_mosaic.html"
+          }
+        ],
+        "notes": [
+          "Müze 2023'ten beri restorasyon nedeniyle kapalı; açılış tarihi belli değil",
+          "TripAdvisor değerleri forum cevaplarından",
+          "Bizans meraklıları için daha uzun"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "closed",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q16850295",
+      "name": "Istanbul Museum of the History of Science and Technology in Islam",
+      "name_local": "İslam Bilim ve Teknoloji Tarihi Müzesi",
+      "category": [
+        "science",
+        "history"
+      ],
+      "popularity_rank": 14,
+      "address": null,
+      "coords": [
+        41.0138,
+        28.9796
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "Small museum, takes about 1 hour",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g293974-d3704726-Reviews-Istanbul_Museum_of_The_History_of_Science_Technology_in_Islam-Istanbul.html"
+          },
+          {
+            "source": "blog",
+            "value": "This museum is small compared to many other museums in Sultanahmet and can be visited in an hour.",
+            "checked": "2026-10-01",
+            "url": "https://istanbulclues.com/islam-science-technology-history-museum/"
+          }
+        ],
+        "notes": [
+          "Aletlere ilgi duyanlar için 2 saate kadar uzayabilir",
+          "Gülhane Parkı içinde, Topkapı'ya yakın"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 1.0,
+        "fast_h": 1.0,
+        "thorough_h": 1.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Mo–Su 09:00–18:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "10 Euros",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q90801",
+      "name": "Rumeli Hisarı",
+      "name_local": null,
+      "category": [
+        "military",
+        "history"
+      ],
+      "popularity_rank": 15,
+      "address": null,
+      "coords": [
+        41.084722222,
+        29.056111111
+      ],
+      "website": null,
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "between one and two hours to be seen from inside. There are lots of climbing, take care.",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/FAQ_Answers-g293974-d295153-t1150834.html"
+          },
+          {
+            "source": "blog",
+            "value": "Allow roughly 45–90 minutes when access is limited; up to two hours if walls and terraces are fully open and you linger on viewpoints.",
+            "checked": "2026-10-01",
+            "url": "https://cabistanbul.com/post/rumeli-fortress"
+          }
+        ],
+        "notes": [
+          "Restorasyon nedeniyle surlar/kuleler kapalı olabilir, süre kısalır",
+          "Çok merdiven ve yokuş var"
+        ],
+        "typical_min_h": 0.75,
+        "typical_max_h": 1.5,
+        "fast_h": 0.75,
+        "thorough_h": 1.5,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "hours": {
+          "value": "Tu–Su 09:00–18:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "price": {
+          "value": "around €6 (foreign adult)",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      }
+    }
+  ]
+}

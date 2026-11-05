@@ -1,0 +1,966 @@
+{
+  "schema_version": 1,
+  "city": {
+    "slug": "rome",
+    "name": "Rome",
+    "country": "IT",
+    "wikidata_id": "Q220",
+    "queried_at": "2026-10-01"
+  },
+  "museums": [
+    {
+      "id": "Q182955",
+      "name": "Vatican Museums",
+      "name_local": "Musei Vaticani",
+      "category": [
+        "art",
+        "history"
+      ],
+      "popularity_rank": 1,
+      "address": "Viale Vaticano 6, I-00192 Roma",
+      "coords": [
+        41.906389,
+        12.454444
+      ],
+      "website": "https://www.museivaticani.va",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187793-d191000-Reviews-Vatican_Museums-Vatican_City_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "A typical time-frame to allow yourself to visit Vatican Museums is 2-3 hours.",
+            "checked": "2026-10-01",
+            "url": "https://www.romewise.com/visit-vatican-museums.html"
+          },
+          {
+            "source": "blog",
+            "value": "plan to spend at least three hours in the museums.",
+            "checked": "2026-10-01",
+            "url": "https://www.contexttravel.com/stories/articles/how-to-visit-the-vatican"
+          }
+        ],
+        "notes": [
+          "Tüm rota yaklaşık 7,5 km",
+          "Çarşamba papa görüşmesi nedeniyle kalabalık",
+          "Ayın son Pazarı ücretsiz, çok kalabalık",
+          "Öğleden sonra 13:30 civarı daha sakin olabilir",
+          "Bazilika eklenirse yarım gün ayırın"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Mo, We",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "60–120",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€20 adult (+€5 online booking)",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Mo–Sa 08:00–20:00 (last entry 18:00); last Su of month 09:00–14:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q841506",
+      "name": "Galleria Borghese",
+      "name_local": "Galleria Borghese",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 2,
+      "address": "Piazzale Scipione Borghese 5, 00197 Roma",
+      "coords": [
+        41.91421,
+        12.492144
+      ],
+      "website": "https://galleriaborghese.cultura.gov.it/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "Duration: 2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d522812-Reviews-Galleria_Borghese-Rome_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "it usually takes around 2 hours to explore the Borghese Gallery",
+            "checked": "2026-10-01",
+            "url": "https://www.walksinsiderome.com/blog/visiting-galleria-borghese/"
+          },
+          {
+            "source": "blog",
+            "value": "You are only allowed a 2-hour window for your visit.",
+            "checked": "2026-10-01",
+            "url": "https://www.romewise.com/galleria-borghese.html"
+          }
+        ],
+        "notes": [
+          "Ziyaret 2 saatlik zaman dilimiyle sınırlı",
+          "Biletleri 1–2 ay önceden alın",
+          "45 dk erken gelin (bilet, emanet)",
+          "İlk veya son seansta daha az kişi",
+          "Villa Borghese parkı için +1–2 saat"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "required",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€16 adult + €2 reservation",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:00–19:00 (last entry 17:45)",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q333906",
+      "name": "Capitoline Museums",
+      "name_local": "Musei Capitolini",
+      "category": [
+        "art",
+        "history",
+        "archaeology"
+      ],
+      "popularity_rank": 3,
+      "address": "Piazza del Campidoglio 1, 00186 Roma",
+      "coords": [
+        41.893055555,
+        12.482777777
+      ],
+      "website": "https://museicapitolini.org/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "The estimated average duration is about three hours",
+            "checked": "2026-10-01",
+            "url": "https://capitolinemuseums.com/capitoline-museums-how-much-time/"
+          },
+          {
+            "source": "blog",
+            "value": "Suggested Duration: 2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.headout.com/blog/capitoline-museums-rome/"
+          },
+          {
+            "source": "tripadvisor",
+            "value": "You should spend at least three hours there to fully enjoy them!",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d191096-Reviews-Musei_Capitolini-Rome_Lazio.html"
+          }
+        ],
+        "notes": [
+          "Sadece başyapıtlar için 1 saat yeter",
+          "Detaylı ziyaret 4+ saat",
+          "Tabularium manzarası için 20–30 dk ayırın",
+          "Sabah erken veya akşamüstü daha sakin"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 2.0,
+        "fast_h": 2.0,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "recommended",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€16.50 adult (with exhibition, until 2026-11-01; €15 museum only)",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Mo–Su 09:30–19:30 (last entry 18:30); closed May 1, Dec 25",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q486382",
+      "name": "Castel Sant'Angelo",
+      "name_local": "Museo Nazionale di Castel Sant'Angelo",
+      "category": [
+        "history",
+        "art"
+      ],
+      "popularity_rank": 4,
+      "address": "Lungotevere Castello, 50, 00193 Roma",
+      "coords": [
+        41.903044,
+        12.466307
+      ],
+      "website": "https://direzionemuseiroma.cultura.gov.it/en/museo-nazionale-di-castel-santangelo/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "More than 3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d191105-Reviews-Castel_Sant_Angelo-Rome_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "About 1 hour and 30 minutes",
+            "checked": "2026-10-01",
+            "url": "https://www.justroma.it/en/guides-and-tips/how-long-does-it-take-to-visit-castel-sant-angelo-/"
+          },
+          {
+            "source": "blog",
+            "value": "Overall, it took us about two hours to see everything in Castel Sant'Angelo.",
+            "checked": "2026-10-01",
+            "url": "https://www.laidbacktrip.com/posts/visit-castel-sant-angelo-rome"
+          }
+        ],
+        "notes": [
+          "Melek Terası en kalabalık kısım",
+          "Çocuklarla 45–60 dk yeterli",
+          "Sabah ilk saat en sakin zaman"
+        ],
+        "typical_min_h": 3.0,
+        "typical_max_h": null,
+        "fast_h": 0.5,
+        "thorough_h": 3.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": "12:00–15:30, hafta sonu (özellikle Cmt)",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€18 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:00–19:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1135392",
+      "name": "Museo Nazionale Romano – Palazzo Massimo",
+      "name_local": "Museo Nazionale Romano – Palazzo Massimo alle Terme",
+      "category": [
+        "archaeology",
+        "art",
+        "history"
+      ],
+      "popularity_rank": 5,
+      "address": "Largo di Villa Peretti, 2, 00185 Roma",
+      "coords": [
+        41.903426175,
+        12.499017895
+      ],
+      "website": "http://www.museonazionaleromano.beniculturali.it/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "google",
+            "value": "People typically spend 1 hr to 3.5 hr here",
+            "checked": "2026-10-01",
+            "url": null
+          },
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d190989-Reviews-Museo_Nazionale_Romano_Palazzo_Massimo-Rome_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "Figure on a little less than hour for the ground floor, and the same for the second floor; spend 15 minutes in the basement, and you're at 2–2.5 hours for the whole museum.",
+            "checked": "2026-10-01",
+            "url": "http://www.reidsitaly.com/destinations/lazio/rome/sights/mnr_palazzo_massimo.html"
+          },
+          {
+            "source": "blog",
+            "value": "We were inside Palazzo Massimo for just about 90 minutes",
+            "checked": "2026-10-01",
+            "url": "https://www.laidbacktrip.com/posts/visit-palazzo-massimo-museum-rome"
+          }
+        ],
+        "notes": [
+          "Bilet birden fazla mekânı kapsar: Palazzo Massimo, Terme di Diocleziano, Palazzo Altemps, Aula Ottagona (7 gün geçerli, her mekâna tek giriş)",
+          "Süre yalnızca Palazzo Massimo için",
+          "Üst kattaki fresk odalarına saatli giriş var",
+          "Hafta içi öğleden sonra sakin"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 0.25,
+        "thorough_h": 3.5,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€15 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:30–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q2266081",
+      "name": "Galleria Nazionale d'Arte Antica – Palazzo Barberini",
+      "name_local": "Gallerie Nazionali di Arte Antica – Palazzo Barberini",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 6,
+      "address": "Via delle Quattro Fontane, 13, Roma",
+      "coords": [
+        41.902779717,
+        12.489527499
+      ],
+      "website": "https://www.barberinicorsini.org/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "google",
+            "value": "People typically spend 1.5 hr to 3 hr here",
+            "checked": "2026-10-01",
+            "url": null
+          },
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d190986-Reviews-Palazzo_Barberini-Rome_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "Suggested Duration: 2-3 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.headout.com/blog/palazzo-barberini/"
+          }
+        ],
+        "notes": [
+          "Bilet Galleria Corsini'yi de kapsar (20 gün geçerli)",
+          "Gizli bahçe veya Mithraeum (rehberli) için ek süre",
+          "Çarşamba genelde en sakin gün"
+        ],
+        "typical_min_h": 1.5,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 3.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Cmt–Paz öğleden sonra",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€15 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 10:00–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1203458",
+      "name": "Galleria Doria Pamphilj",
+      "name_local": "Galleria Doria Pamphilj",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 7,
+      "address": "Via del Corso 305, 00186 Roma",
+      "coords": [
+        41.89786,
+        12.48145
+      ],
+      "website": "https://www.doriapamphilj.it/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "Duration: 1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d243035-Reviews-Villa_Doria_Pamphilj-Rome_Lazio.html"
+          },
+          {
+            "source": "official",
+            "value": "We recommend setting aside an hour and a half for your visit to the Gallery",
+            "checked": "2026-10-01",
+            "url": "https://www.doriapamphilj.it/en/rome/your-visit/"
+          },
+          {
+            "source": "blog",
+            "value": "Plan for 90 minutes to 2 hours for a thorough visit.",
+            "checked": "2026-10-01",
+            "url": "https://thebettervacation.com/rome/doria-pamphilj-gallery/"
+          },
+          {
+            "source": "blog",
+            "value": "you should plan to spend around two hours enjoying the visit at a relaxed pace.",
+            "checked": "2026-10-01",
+            "url": "https://traveltastefeel.com/is-galleria-doria-pamphilj-worth-visiting/"
+          },
+          {
+            "source": "blog",
+            "value": "It wwas not crowded there, no rush and very easy to spend 3-4 hrs enjoying the art.",
+            "checked": "2026-10-01",
+            "url": "https://community.ricksteves.com/travel-forum/italy/question-about-galleria-doria-pamphilj"
+          }
+        ],
+        "notes": [
+          "Sesli rehber bilete dahil",
+          "Çarşamba kapalı",
+          "Hafta içi açılışta (09:00) en sakin",
+          "Genelde kalabalık değil"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 4.0,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": "Cumartesi öğleden sonra",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "recommended",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€16 adult (€17 online)",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Mo,Tu,Th 09:00–19:00; Fr–Su 10:00–20:00; We closed",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q3867996",
+      "name": "Ara Pacis Museum",
+      "name_local": "Museo dell'Ara Pacis",
+      "category": [
+        "history",
+        "archaeology"
+      ],
+      "popularity_rank": 8,
+      "address": "Lungotevere in Augusta 52, 00186 Roma",
+      "coords": [
+        41.907654,
+        12.474738
+      ],
+      "website": "https://www.arapacis.it",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "To admire the altar and the architecture of the shrine, 45-60 minutes are sufficient; if you purchased a ticket that includes the exhibition, plan on about an hour and a half.",
+            "checked": "2026-10-01",
+            "url": "https://www.justroma.it/en/tickets/ara-pacis-tickets/"
+          },
+          {
+            "source": "blog",
+            "value": "You should allow between one and two hours to visit the Ara Pacis museum and any special exhibitions.",
+            "checked": "2026-10-01",
+            "url": "https://www.romewise.com/ara-pacis.html"
+          },
+          {
+            "source": "tripadvisor",
+            "value": "I spent about an hour in the new building.",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/ShowTopic-g187791-i22-k3742991-Ara_Pacis-Rome_Lazio.html"
+          }
+        ],
+        "notes": [
+          "Sergi biletiyle ~+30 dk",
+          "Hafta içi öğleden sonra (17:00 sonrası) daha sakin",
+          "Roma sakinlerine 2 Şubat 2026'dan beri ücretsiz"
+        ],
+        "typical_min_h": 0.75,
+        "typical_max_h": 1.0,
+        "fast_h": 0.75,
+        "thorough_h": 1.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "recommended",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€14 adult (non-residents; +exhibition €23)",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Mo–Su 09:30–19:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1492387",
+      "name": "National Gallery of Modern and Contemporary Art",
+      "name_local": "Galleria Nazionale d'Arte Moderna e Contemporanea",
+      "category": [
+        "art"
+      ],
+      "popularity_rank": 9,
+      "address": "Viale delle Belle Arti 131, 00197 Roma",
+      "coords": [
+        41.917046,
+        12.4799803
+      ],
+      "website": "https://gnamc.cultura.gov.it/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "Duration: 1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d208585-Reviews-Galleria_Nazionale_D_Arte_Moderna_E_Contemporanea-Rome_Lazio.html"
+          },
+          {
+            "source": "blog",
+            "value": "It took me 3 hours to visit the GNAMC.",
+            "checked": "2026-10-01",
+            "url": "https://rometravelogues.com/is-the-galleria-nazionale-darte-moderna-e-contemporanea-worth-visiting/"
+          }
+        ],
+        "notes": [
+          "Bilet 3 saatlik giriş dilimi için geçerli",
+          "Genelde kalabalık değil, gişede sıra yok",
+          "Perşembe akşamı 19:00–22:00 €9"
+        ],
+        "typical_min_h": 1.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 3.0,
+        "confidence": "medium"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": "0",
+          "source": "blog",
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€17 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:00–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q15055388",
+      "name": "National Etruscan Museum of Villa Giulia",
+      "name_local": "Museo Nazionale Etrusco di Villa Giulia",
+      "category": [
+        "history",
+        "art"
+      ],
+      "popularity_rank": 10,
+      "address": "Piazzale di Villa Giulia 9, 00196 Roma",
+      "coords": [
+        41.918636,
+        12.476265
+      ],
+      "website": "https://www.museoetru.it/",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "tripadvisor",
+            "value": "1-2 hours",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/Attraction_Review-g187791-d208583-Reviews-Museo_Nazionale_Etrusco_di_Villa_Giulia-Rome_Lazio.html"
+          },
+          {
+            "source": "tripadvisor",
+            "value": "2 to 3 hours, although there is interesting stuff you could easily spend longer than that.",
+            "checked": "2026-10-01",
+            "url": "https://www.tripadvisor.com/FAQ_Answers-g187791-d208583-t4534905-How_long_would_you_suggest_spending_here_for.html"
+          },
+          {
+            "source": "blog",
+            "value": "Allow 2 to 3.5 hours for a thorough visit.",
+            "checked": "2026-10-01",
+            "url": "https://planetwhitley.com/national-etruscan-museum-rome-villa-giulia-practical-guide-for-first-time-visitors/"
+          },
+          {
+            "source": "blog",
+            "value": "Most visitors spend 1 to 1.5 hours at the National Etruscan Museum. The audio guide runs for approximately 1 hour.",
+            "checked": "2026-10-01",
+            "url": "https://thebettervacation.com/rome/national-etruscan-museum-of-villa-giulia/"
+          }
+        ],
+        "notes": [
+          "Sesli rehber yaklaşık 1 saat",
+          "Etrüsk tarihine meraklıysan 2+ saat",
+          "Salonlar 19:00'da kapanır, son giriş 18:30",
+          "Salon 30-32 ve 37-39 Mart 2026'dan beri restorasyonda kapalı",
+          "Eşler Lahdi restorasyonda; Salı ve Perşembe 10:00-13:00 laboratuvarda görülebilir",
+          "Her ayın ilk Pazarı ücretsiz",
+          "Tomba François için rezervasyon zorunlu"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 2.0,
+        "fast_h": 1.0,
+        "thorough_h": 3.5,
+        "confidence": "high"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "not_needed",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€13 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 08:30–19:30",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1881229",
+      "name": "MAXXI – National Museum of 21st Century Arts",
+      "name_local": "MAXXI – Museo nazionale delle arti del XXI secolo",
+      "category": [
+        "art",
+        "architecture"
+      ],
+      "popularity_rank": 11,
+      "address": "Via Guido Reni 153, 00196 Roma",
+      "coords": [
+        41.928467,
+        12.468314
+      ],
+      "website": "https://www.maxxi.art",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Plan to spend 2 to 3 hours at MAXXI. This gives you plenty of time to explore both the permanent collection and any temporary exhibitions.",
+            "checked": "2026-10-01",
+            "url": "https://www.walksinsiderome.com/blog/maxxi-national-museum-of-21st-century-art/"
+          },
+          {
+            "source": "blog",
+            "value": "Visitors typically spend 2-3 hours at the museum to fully explore the exhibitions.",
+            "checked": "2026-10-01",
+            "url": "https://artandtraditiontours.com/en/discover-the-maxxi-museum-of-contemporary-art-in-rome/"
+          }
+        ],
+        "notes": [
+          "Zaha Hadid binası başlı başına görülmeye değer",
+          "En sakin zaman: hafta içi sabah açılışta",
+          "Hafta sonu ve özel sergilerde online bilet sırayı atlatır",
+          "Online bilet gişeden €1 ucuz"
+        ],
+        "typical_min_h": 2.0,
+        "typical_max_h": 3.0,
+        "fast_h": 2.0,
+        "thorough_h": 3.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "recommended",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€15 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 11:00–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    },
+    {
+      "id": "Q1054090",
+      "name": "Centrale Montemartini",
+      "name_local": "Centrale Montemartini",
+      "category": [
+        "history",
+        "art"
+      ],
+      "popularity_rank": 12,
+      "address": "Via Ostiense 106, 00154 Roma",
+      "coords": [
+        41.86703,
+        12.478991
+      ],
+      "website": "https://www.centralemontemartini.org",
+      "user_notes": [],
+      "duration": {
+        "signals": [
+          {
+            "source": "blog",
+            "value": "Plan to spend about 60–90 minutes. It's focused and doesn't sprawl.",
+            "checked": "2026-10-01",
+            "url": "https://www.thegeographicalcure.com/post/centrale-montemartini-rome"
+          },
+          {
+            "source": "blog",
+            "value": "Most visitors spend 1.5 to 2 hours exploring the permanent collection",
+            "checked": "2026-10-01",
+            "url": "https://www.walksofitaly.com/blog/art-culture/centrale-montemartini"
+          }
+        ],
+        "notes": [
+          "Yüksek sezonda bile kalabalık değil",
+          "En sakin zaman: hafta içi sabah ve öğleden sonra erken",
+          "Bilet genelde kapıda alınabiliyor",
+          "Roma Pass'e dahil",
+          "Son giriş kapanıştan 1 saat önce"
+        ],
+        "typical_min_h": 1.5,
+        "typical_max_h": 1.5,
+        "fast_h": 1.0,
+        "thorough_h": 2.0,
+        "confidence": "low"
+      },
+      "planning": {
+        "busiest": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "queue_min": {
+          "value": null,
+          "source": null,
+          "checked": "2026-10-01"
+        },
+        "advance_ticket": {
+          "value": "not_needed",
+          "source": "blog",
+          "checked": "2026-10-01"
+        }
+      },
+      "volatile": {
+        "price": {
+          "value": "€11 adult",
+          "source": "official",
+          "checked": "2026-10-01"
+        },
+        "hours": {
+          "value": "Tu–Su 09:00–19:00",
+          "source": "official",
+          "checked": "2026-10-01"
+        }
+      }
+    }
+  ]
+}
